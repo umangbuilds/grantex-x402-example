@@ -1,0 +1,16 @@
+{
+  "name": "grantex-x402-example",
+  "version": "1.0.0",
+  "description": "Grantex × MoltPe — scoped spend grants for AI agents, end-to-end demo",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
